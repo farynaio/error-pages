@@ -1,0 +1,15 @@
+{
+  "name": "error_pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass 500/style.scss 500/style.css"
+  },
+  "keywords": [],
+  "author": "Adam Faryna",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.22.7"
+  }
+}
